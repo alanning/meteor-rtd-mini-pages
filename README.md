@@ -1,7 +1,7 @@
 meteor-rtd-mini-pages
 =====================
 
-Example application demonstrating routing via mini-pages with automated acceptance testing courtesy of [rtd](https://github.com/xolvio/rtd).
+Example application demonstrating routing via [mini-pages](https://github.com/cmather/meteor-mini-pages) with automated acceptance testing courtesy of [rtd](https://github.com/xolvio/rtd).
 
 Pre-Reqs:
 
